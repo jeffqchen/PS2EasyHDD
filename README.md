@@ -1,6 +1,8 @@
 # PS2EasyHDD
 
-The PS2 Network Adapter has an annoying design - it contains the hard drive inside and requires unscrewing the adapter from the PS2 in order to gain access to the drive in order to install/manage games for HDL/OPL quickly. I have endured this annoyance for two decades, and decided it is time to end it.
+Many of PS2 players use HDL/OPL with a traditional hard drive. This requires the PS2 network adapter. In order to transfer games quickly and reliably, removing the drive and hooking it up to a computer is the definitive method.
+
+However, the adapter has an annoying design - it contains the hard drive inside the PS2 and requires unscrewing the adapter from the PS2 in order to gain access to the drive. I have endured this annoyance for two decades, and decided it is time to end this.
 
 <img width="900" src="https://github.com/jeffqchen/PS2EasyHDD/assets/25773768/4fd5e88e-4c01-4bcf-a07d-94a647c533dc">
 <img width="260" src="https://github.com/jeffqchen/PS2EasyHDD/assets/25773768/cbf7f49d-89d0-48dc-979a-1ae9ca34dd44"> <img width="260" src="https://github.com/jeffqchen/PS2EasyHDD/assets/25773768/4fd6c3ee-3948-4e2a-8242-db25c6e4d845"> <img width="260" src="https://github.com/jeffqchen/PS2EasyHDD/assets/25773768/b5dda8d8-4696-4230-9d22-8acaf98a9a24">
