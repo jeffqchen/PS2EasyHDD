@@ -1,4 +1,4 @@
-# PS2EasyHDD
+# PS2 EasyHDD
 
 Many of PS2 players use HDL/OPL with a traditional hard drive. This requires the PS2 network adapter. In order to transfer games quickly and reliably, removing the drive and hooking it up to a computer is the definitive method.
 
@@ -11,7 +11,7 @@ This is the EasyHDD shell for the PS2 network adapters. It simply reverses the w
 
 You only need to disassemble the original network adapter, and transplant necessary parts to the new shell to finish the job. The unused parts will not be harmed and you can simply stow them away.
 
-Since hard drive bay inside the PS2 is constrained, only 2.5 inch drives are currently in the plans to be supported.
+Since the hard drive bay inside the PS2 is constrained, currently only 2.5 inch drives are in the plans to be supported.
 
 There are currently 3 main variants of the network adapter:
 - SCPH-10350. The thin model with only a LAN port.
