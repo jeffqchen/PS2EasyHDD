@@ -18,7 +18,7 @@ There are currently 3 main variants of the network adapter:
 - Gamestar. A piece of bootleg hardware that only offers hard drive connectivity and no networking is implemented.
 <img width="260" src="https://github.com/jeffqchen/PS2EasyHDD/assets/25773768/3dae5223-51e2-4c1d-8b0a-1a26d8518c04">
 <img width="260" src="https://github.com/jeffqchen/PS2EasyHDD/assets/25773768/164e54a8-65c8-45e5-854a-024a7c6d4f74">
-<img width="260" src="https://github.com/jeffqchen/PS2EasyHDD/assets/25773768/fbbc49c5-88fa-47c8-845c-b7939a26e42c">
+<img width="260" src="https://github.com/jeffqchen/PS2EasyHDD/assets/25773768/8cd87e3c-0461-457d-a4b6-63e9afd861f7">
 
 The plan is to support all of the mentioned models.
 
