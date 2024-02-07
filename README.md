@@ -32,6 +32,14 @@ Please visit the [Project Wiki](/wiki) page for detailed instructions.
 
 -----
 
+# Special Thanks
+
+Twitter Folks for Photos:
+- @radiatedguinea
+- @MrBildo
+
+-----
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
