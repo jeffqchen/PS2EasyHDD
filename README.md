@@ -11,7 +11,7 @@ This is the EasyHDD shell for the PS2 network adapters. It simply reverses the w
 
 You only need to disassemble the original network adapter, and transplant necessary parts to the new shell to finish the job. The unused parts will not be harmed and you can simply stow them away.
 
-Since the hard drive bay inside the PS2 is constrained, currently only 2.5 inch drives are in the plans to be supported.
+Since the hard drive bay inside the PS2 is constrained, currently only 2.5 inch SATA drives are in the plans to be supported.
 
 There are currently 3 main variants of the network adapter:
 - SCPH-10350. The thin model with only a LAN port.
