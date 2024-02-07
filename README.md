@@ -1,6 +1,6 @@
 # PS2 EasyHDD
 
-Many PS2 players use HDL/OPL with a traditional hard drive. This requires the PS2 network adapter. In order to transfer games quickly and reliably, removing the drive and hooking it up to a computer is the definitive method.
+Many PS2 players use HDL/OPL with a traditional hard drive or SSD. This requires the PS2 network adapter. In order to transfer games quickly and reliably, removing the drive and hooking it up to a computer is the definitive method.
 
 However, the adapter has an annoying design - it contains the hard drive inside the PS2 and requires unscrewing the adapter from the PS2 in order to gain access to the drive. I have endured this annoyance for two decades, and decided it is time to end this. (Not to mention the color-mismatch when you use a special edition PS2...)
 
