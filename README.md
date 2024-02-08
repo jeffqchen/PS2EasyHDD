@@ -28,7 +28,7 @@ Current progress:
 - SCPH-10281: WIP
 - Game Star: Pending
 
-Please visit the [Project Wiki](/wiki) page for detailed instructions.
+Please visit the [Project Wiki](https://github.com/jeffqchen/PS2EasyHDD/wiki) page for detailed instructions.
 
 -----
 
