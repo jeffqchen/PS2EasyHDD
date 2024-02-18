@@ -25,8 +25,8 @@ The plan is to support all of the mentioned models.
 
 Current progress:
 - SCPH-10350: Finished
-- SCPH-10281: WIP
-- Game Star: Pending
+- SCPH-10281: Finished
+- Game Star: WIP
 
 Please visit the [Project Wiki](https://github.com/jeffqchen/PS2EasyHDD/wiki) page for detailed instructions.
 
