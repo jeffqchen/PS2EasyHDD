@@ -1,3 +1,7 @@
+🌸 If you think my project is cool and wish to send a bit of gratitude, you can head over to my Ko-fi page [Here](https://ko-fi.com/designerjeffchen). 🌸
+
+------
+
 # PS2 EasyHDD
 
 Many PS2 players use HDL/OPL with a traditional hard drive or SSD. This requires the PS2 network adapter. In order to transfer games quickly and reliably, removing the drive and hooking it up to a computer is the definitive method.
@@ -26,7 +30,7 @@ The plan is to support all of the mentioned models.
 Current progress:
 - SCPH-10350: Finished
 - SCPH-10281: Finished
-- Game Star: WIP
+- Game Star: Finished
 
 Please visit the [Project Wiki](https://github.com/jeffqchen/PS2EasyHDD/wiki) page for detailed instructions.
 
